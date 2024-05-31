@@ -16,8 +16,8 @@
      
  <p>✨ Outside of work:</p>
    <ul>
-      <li>🎵I like to write and record songs in my free time</li>
-      <li>🧘🏾‍♀️I also like to practice yoga and meditation for my mind , body and soul</li>
+      <li>🎵I enjoy to writing and recording songs in my spare time</li>
+      <li>🧘🏾‍♀️I also practice yoga and meditation for my mind , body and soul</li>
       </ul>
 
 😄 Pronouns: She/her
