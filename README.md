@@ -11,7 +11,7 @@
 <p>🌱I’m currently learning :</p>
 <ul>
       <li>👾Bash shell scripting</li>
-      <li>🤖Exploring different concepts in the data engineering field</li>
+      <li>📊Exploring different concepts in the data engineering field</li>
       </ul>
      
  <p>✨ Outside of work:</p>
