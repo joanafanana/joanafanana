@@ -16,7 +16,7 @@
      
  <p>✨ Outside of work:</p>
    <ul>
-      <li>🎵I enjoy to writing and recording songs in my spare time</li>
+      <li>🎵I enjoy writing and recording songs in my spare time</li>
       <li>🧘🏾‍♀️I also practice yoga and meditation for my mind , body and soul</li>
       </ul>
 
