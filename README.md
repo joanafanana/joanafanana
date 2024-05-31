@@ -13,8 +13,8 @@
       </p>🤖exploring different concepts in the data engineering field
 
   ✨ outside of work:
-      +🎵i like to write and record songs in my free time
-      +🧘🏾‍♀️i also like to practice yoga for my flexibilty and meditation for my mind
+      <p>🎵i like to write and record songs in my free time
+      </p>🧘🏾‍♀️i also like to practice yoga for my flexibilty and meditation for my mind
 
 😄 Pronouns: She/her
  
