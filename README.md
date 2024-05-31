@@ -29,3 +29,4 @@
      problems!
 
 
+![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanafanana&show_icons=true&theme=radical)
