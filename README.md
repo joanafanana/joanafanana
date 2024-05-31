@@ -8,9 +8,15 @@
 👩‍🎓 I am a graduate with a Bachelor's degree in information systems technologies. Over time i have gained experience in cloud computing, container technologies , automation and infractrusctureas code. I am on a mission to expand my knowledge of implementing continuous integration/continous deployment pipelines and optimizing system performance.
 
 
- 🌱 I’m currently learning :
+ 🌱 <ul>I’m currently learning :
+    <li>
       <p>👾Bash shell scripting </p> 
+      </li>
+    <li>
       <p>🤖exploring different concepts in the data engineering field</p>
+      </li>
+      </ul>
+  
 
   ✨ outside of work:
       <p>🎵i like to write and record songs in my free time
