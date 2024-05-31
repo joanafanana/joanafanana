@@ -5,19 +5,19 @@
 
 👋 Hey there!, i see you stumbled on my page 👀 . My name is Joan, i'm an experienced DevOps engineer with a knack for solving complex problems and optimizing workflows. Let's automate, orchestrate , and innovate together for a brighter future in tech!
 
-👩‍🎓 I am a graduate with a Bachelor's degree in information systems technologies. Over time i have gained experience in cloud computing, container technologies , automation and infractrusctureas code. I am on a mission to expand my knowledge of implementing continuous integration/continous deployment pipelines and optimizing system performance.
+👩‍🎓 I am a graduate with a Bachelor's degree in Information Systems Technologies. Over time i have gained experience in cloud computing, container technologies , automation and infractrusctureas code. I am on a mission to expand my knowledge of implementing continuous integration/continous deployment pipelines and optimizing system performance.
 
 
 <p>🌱I’m currently learning :</p>
 <ul>
       <li>👾Bash shell scripting</li>
-      <li>🤖exploring different concepts in the data engineering field</li>
+      <li>🤖Exploring different concepts in the data engineering field</li>
       </ul>
      
- <p>✨ outside of work:</p>
+ <p>✨ Outside of work:</p>
    <ul>
-      <li>🎵i like to write and record songs in my free time</li>
-      <li>🧘🏾‍♀️i also like to practice yoga for my flexibilty and meditation for my mind</li>
+      <li>🎵I like to write and record songs in my free time</li>
+      <li>🧘🏾‍♀️I also like to practice yoga for my flexibilty and meditation for my mind</li>
       </ul>
 
 😄 Pronouns: She/her
