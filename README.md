@@ -9,8 +9,8 @@
 
 
  🌱 I’m currently learning :
-      +👾Bash shell scripting 
-      +🤖exploring different concepts in the data engineering field
+      <p>👾Bash shell scripting 
+      </p>🤖exploring different concepts in the data engineering field
 
   ✨ outside of work:
       +🎵i like to write and record songs in my free time
