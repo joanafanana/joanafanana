@@ -9,17 +9,18 @@
 
 
  🌱 I’m currently learning :
-      👾Bash shell scripting 
-      🤖exploring different concepts in the data engineering field
+      +👾Bash shell scripting 
+      +🤖exploring different concepts in the data engineering field
 
   ✨ outside of work:
-      🎵i like to write and record songs in my free time
-      🧘🏾‍♀️i also like to practice yoga for my flexibilty and meditation for my mind
+      +🎵i like to write and record songs in my free time
+      +🧘🏾‍♀️i also like to practice yoga for my flexibilty and meditation for my mind
 
 😄 Pronouns: She/her
  
 ⚡ Fun fact:
-      🎲i'm an aspiring speed cuber ... current record is solving my rubiks cube in a minute
+      +🎲i'm an aspiring speed cuber ... current record is solving my rubiks cube in a minute
+    
     🎯I desire to produce high-quality work that positively impacts others. A personal value of mine is the willingness to grow and adapt. Let's get in touch and collaborate on projects that solve real world 
      problems!
 
