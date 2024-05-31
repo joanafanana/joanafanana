@@ -1,5 +1,5 @@
 
-![212284164-662b26f5-a2e4-49cb-b675-4af56e609afa](https://github.com/joanafanana/joanafanana/assets/68906597/d6bfa2f6-c669-47a6-8e2e-970a0648446b)
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/joanafanana/joanafanana/assets/68906597/5af0bf46-1c1f-4d4a-a6b1-9a9e16bfe2a1)
 
 
 
