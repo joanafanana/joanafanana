@@ -25,7 +25,7 @@
 ⚡ Fun fact:
       🎲i'm an aspiring speed cuber ... current record is solving my rubiks cube in a minute))
     
-    🎯I desire to produce high-quality work that positively impacts others. A personal value of mine is the willingness to grow and adapt. Let's get in touch and collaborate on projects that solve real world 
+🎯I desire to produce high-quality work that positively impacts others. A personal value of mine is the willingness to grow and adapt. Let's get in touch and collaborate on projects that solve real world 
      problems!
 
 
