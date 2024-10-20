@@ -3,9 +3,9 @@
 
 
 
-👋 Hey there! i see you stumbled on my page 👀 . My name is Joan, i'm an experienced DevOps engineer with a knack for solving complex problems and optimizing workflows. Let's automate, orchestrate , and innovate together for a brighter future in tech!
+👋 Hey there! i see you stumbled on my page 👀 . My name is Joan, i'm an experienced Data engineer with a knack for solving complex problems and building optimized data architectures. Let's automate, orchestrate , and innovate together for a brighter future in tech!
 
-👩‍🎓 I am a graduate with a Bachelor's degree in Information Systems Technologies. Over time i have gained experience in cloud computing, container technologies , automation and infractruscture as code. I'm on a mission to expand my knowledge of implementing continuous integration/continous deployment pipelines and optimizing system performance.
+👩‍🎓 I am a graduate with a Bachelor's degree in Information Systems Technologies. Over time i have become proficient in in cloud computing, container technologies , SQL and python. I'm on a mission to expand my knowledge of implementing continuous integration/continous deployment pipelines and optimizing system performance.
 
 
 <p>🌱I’m currently learning :</p>
